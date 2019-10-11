@@ -2,3 +2,9 @@ In the forest there lived a witch named Octavia. She was black, and tall. Wore w
 She ran an inn that only took wary travelers in need. The inn on the outside looked as if it was for one person, but the inside could 
 change and grow in size. Each room would change to the occupants needs, to make them feel at home. Outside was a garden where she
 grew many herbs for spells.
+
+One day, a group of hikers walked in to Octavia's inn looking for a place to stay. They were at a loss for words when they saw the inn. 
+The inn grew to 5 rooms, one for each of the travellers. Inside each room was everything that they could have wished for. They're favorite
+foods lined the tables. New boots and hiking equipment stocked the closets, they're favorite books and movies covered the shelves, and the
+bed's were more comfortable than they could have ever hoped for. With all of these incredible luxuries surrounding them, they should have 
+known there was going to be a cost...
